@@ -2,6 +2,7 @@ name: ovau
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0
+title: agile design studio
 cta:
   domain: null
   bucket: null
