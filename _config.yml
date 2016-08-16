@@ -1,0 +1,28 @@
+name: ovau
+favicon: null
+layout_spectrum: 0.943977210437879
+typography_spectrum: 0.8461769144050777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8156346012838185
+  lightness: 0.006564673967659473
+  saturation: 0.5242744721472263
+  rhythmicContrast: 0.43619636818766594
+purpose: []
